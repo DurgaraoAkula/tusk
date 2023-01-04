@@ -3,3 +3,5 @@
 Welcome to fruits page
   1.Mango
   2.Banana
+  3.Apple
+  4.WaterMelon
