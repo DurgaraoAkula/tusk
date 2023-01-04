@@ -7,3 +7,5 @@ Welcome to fruits page
   4.WaterMelon
   
 Thanks  
+
+Committed by Durgarao
