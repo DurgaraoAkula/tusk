@@ -1,0 +1,5 @@
+
+
+Welcome to fruits page
+  1.Mango
+  2.Banana
