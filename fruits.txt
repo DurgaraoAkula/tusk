@@ -5,3 +5,5 @@ Welcome to fruits page
   2.Banana
   3.Apple
   4.WaterMelon
+  
+  Committed by durgarao Akula
